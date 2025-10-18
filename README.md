@@ -11,7 +11,7 @@ This project is a web application built using the MERN stack that allows users t
 To get a local copy of the project, open your terminal and run:
 
 ```bash
-git clone https://github.com/your-username/word-to-pdf-converter.git
+git clone https://github.com/shishirshebbar/Word-to-PDF-converter-website.git
 cd "Word to PDF Converter"
 ```
 
