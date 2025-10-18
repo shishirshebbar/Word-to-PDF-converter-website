@@ -12,7 +12,7 @@ To get a local copy of the project, open your terminal and run:
 
 ```bash
 git clone https://github.com/shishirshebbar/Word-to-PDF-converter-website.git
-cd "Word to PDF Converter"
+
 ```
 
 ## Run Instructions
